@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Blink1", "Blink1\Blink1.vcxproj", "{7D5C3234-7600-4B2E-BE27-4CBDA45EA17B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D5C3234-7600-4B2E-BE27-4CBDA45EA17B}.Debug|ARM.ActiveCfg = Debug|ARM
+		{7D5C3234-7600-4B2E-BE27-4CBDA45EA17B}.Debug|ARM.Build.0 = Debug|ARM
+		{7D5C3234-7600-4B2E-BE27-4CBDA45EA17B}.Release|ARM.ActiveCfg = Release|ARM
+		{7D5C3234-7600-4B2E-BE27-4CBDA45EA17B}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD1684B3-0B53-4E2E-972B-41AEA29CC6FE}
+	EndGlobalSection
+EndGlobal

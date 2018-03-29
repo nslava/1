@@ -1,0 +1,7 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '192.168.1.57'
+  Starting remote build
+  Compiling sources:
+  Linking objects
+  Invoking 'gpio export 17 out', working directory: '/home/sl/projects/Blink1'
